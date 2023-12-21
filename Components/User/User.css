@@ -1,0 +1,17 @@
+.item {
+    display: flex;
+    align-items: center;
+    background-color: white;
+    color: black;
+    width: 500px;
+    border-radius: 15px;
+}
+.container-user {
+    margin: 10px;
+}
+.image {
+    margin-right: 30px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    height: 115px;
+}
